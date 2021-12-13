@@ -1,4 +1,4 @@
-Group 5 :
+Group 5 : Drug Consumption Classification
 
 For the MATLAB Codes :
 
